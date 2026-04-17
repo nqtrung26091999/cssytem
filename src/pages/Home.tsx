@@ -1,3 +1,5 @@
-export default function Home() {  return (
-    <div>Home</div>
-) }
+export default function Home() {
+    return (
+        <div className="bg-red-500 text-white p-10">Home</div>
+    )
+}
